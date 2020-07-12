@@ -1,6 +1,9 @@
 ### Hello Visitor
 - I'm Maxwill Lin, currently a sophomore in NCTU.
 - I'm currently interesting in fileds like NLP/RL, TCS(theory of comuter science), Quantum Computing, etc..
+- personal website is underconstruction
+  - https://eazyreal.github.io/
+
 
 <!--
 **EazyReal/eazyreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
