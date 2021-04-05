@@ -11,8 +11,8 @@
 ### Hobbies
 - music, guitar
 
-
-
+### News
+- (2020/12/1) Gained admission to Graduate Institute of Communication Engineering (group of DS), National Taiwan University.
 
 
 <!--
