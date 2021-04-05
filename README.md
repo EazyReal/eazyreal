@@ -1,10 +1,16 @@
 ### Hello Visitor
-- I'm Yan-Tong Lin, currently a sophomore in NCTU.
-- I'm currently interested in fileds like NLP/RL, TCS(theory of comuter science), Quantum Computing, etc..
-- also interested in music, guitar
-- summer intern @ IIS studying empirical neural methods in NLP
-- personal website is underconstruction
-  - https://eazyreal.github.io/
+- I'm Yan-Tong Lin, currently a junior in National Yan Ming Chiao Tung University.
+- My research interests primary lies in algorithms, complexity theory, and quantum computing.
+- I have experience in computer graphics, artificial intelligence, etc.
+
+### Selected Honors
+- A+ grades on challenging courses
+- Pulication to TAAI during my summer internship @ Institite of Information Science, Academia Sinica
+- Ranked 541st in Google Code Jam 2020
+
+### Hobbies
+- music, guitar
+
 
 
 
