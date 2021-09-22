@@ -1,7 +1,7 @@
 ### About Me
 - I am a first year MS student in Graduate Institute of Communication Engineering (group of DS), National Taiwan University.
-- My research interests primary lies in algorithms, complexity theory, information theory, and quantum computing.
-- I have experience in computer graphics, artificial intelligence, etc.
+- My research interests include algorithms, complexity theory, information theory, quantum computing, etc.
+- I have practical experience in computer graphics, natural language processing, artificial intelligence, etc.
 
 ### Selected Honors
 - A+ grades on challenging courses
