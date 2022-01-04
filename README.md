@@ -1,3 +1,6 @@
+![Maxwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazyreal&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
+
 ### About Me
 - I am a first year MS student in Graduate Institute of Communication Engineering (group of DS), National Taiwan University.
 - My research interests include algorithms, complexity theory, information theory, quantum computing, etc.
@@ -12,5 +15,4 @@
 - music, guitar
 - blockchain
 
-![Maxwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazyreal&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
+0xb1B6356EA9E2f3Bf9867d6Ac1c1Bfd2cB1553Abb
