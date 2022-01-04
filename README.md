@@ -1,7 +1,7 @@
 ### About Me
 - I am a first year MS student in Graduate Institute of Communication Engineering (group of DS), National Taiwan University.
 - My research interests include algorithms, complexity theory, information theory, quantum computing, etc.
-- I have practical experience in computer graphics, natural language processing, artificial intelligence, etc.
+- I have practical experience in smart contract development, machine learning, computer graphics, etc.
 
 ### Selected Honors
 - A+ grades on challenging courses
@@ -10,7 +10,6 @@
 
 ### Interests
 - music, guitar
-- blockchain technology
-<!--
+- blockchain
 
--->
+![Maxwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazyreal&show_icons=true&theme=dark)
