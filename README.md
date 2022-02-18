@@ -13,9 +13,9 @@
 
 ### Technologies
 - PyTorch, AllenNLP
-
-### Technologies 
 - Docker
+
+### Technologies (Learning)
 - GraphQL, gRPC
 - Svelte, Svelte-kit, React, Next
 
