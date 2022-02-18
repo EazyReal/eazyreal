@@ -8,7 +8,7 @@
 - Experience in smart contract development, machine learning, computer graphics, etc.
 
 ### Selected Honors
-- A+ grades on challenging courses
+- A+s in challenging courses
 - Yan-Tong Lin, Meng-Tse Wu, and Keh-Yih Su. "Syntax-aware Natural Language Inference with Graph Matching Networks." 2020 International Conference on Technologies and Applications of Artificial Intelligence (TAAI). IEEE, 2020.
 - Ranked 541st in Google Code Jam 2020
 
