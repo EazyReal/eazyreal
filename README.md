@@ -8,7 +8,7 @@
 
 ### Selected Honors
 - A+ grades on challenging courses
-- A pulication to TAAI during my summer internship @ Institite of Information Science, Academia Sinica
+- Yan-Tong Lin, Meng-Tse Wu, and Keh-Yih Su. "Syntax-aware Natural Language Inference with Graph Matching Networks." 2020 International Conference on Technologies and Applications of Artificial Intelligence (TAAI). IEEE, 2020.
 - Ranked 541st in Google Code Jam 2020
 
 ### Interests
