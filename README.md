@@ -3,9 +3,21 @@
 
 ### About Me
 - A first year MS student at Graduate Institute of Communication Engineering, National Taiwan University.
-  - Current Research Direction: Blockchain Scalability and Security (Sharding, Roll-ups) 
-- Research interests include algorithms, complexity theory, information theory, quantum computing, etc.
+  - Current research direction: blockchain scalability and security (sharding, roll-ups) 
+  - Research interests: algorithms, complexity theory, quantum computing, etc.
 - Experience in smart contract development, machine learning, computer graphics, etc.
+
+### Languages
+- C++, Python, Typescript
+- (Learning) Go, Rust
+
+### Technologies
+- PyTorch, AllenNLP
+
+### Technologies 
+- Docker
+- GraphQL, gRPC
+- Svelte, Svelte-kit, React, Next
 
 ### Selected Honors
 - A+s in challenging courses
@@ -13,7 +25,6 @@
 - Ranked 541st in Google Code Jam 2020
 
 ### Interests
-- music, guitar
-- blockchain
+- music, guitar, games
 
 0xb1B6356EA9E2f3Bf9867d6Ac1c1Bfd2cB1553Abb
