@@ -3,6 +3,7 @@
 
 ### About Me
 - A first year MS student at Graduate Institute of Communication Engineering, National Taiwan University.
+  - Current Research Direction: Blockchain Scalability and Security (Sharding, Roll-ups) 
 - Research interests include algorithms, complexity theory, information theory, quantum computing, etc.
 - Experience in smart contract development, machine learning, computer graphics, etc.
 
