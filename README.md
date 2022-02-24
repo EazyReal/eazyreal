@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
 
 ## About Me
-- A first year MS student at Graduate Institute of Communication Engineering, National Taiwan University.
+- A first year MS student at National Taiwan University.
   - Current research direction: blockchain scalability and security (sharding, roll-ups) 
   - Research interests: algorithms, complexity theory, quantum computing, etc.
 - Experience in smart contract development, machine learning, computer graphics, etc.
