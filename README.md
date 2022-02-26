@@ -22,7 +22,7 @@
 ## Languages and Technologies
 
 ### Languages
-- (medium/high) C++, Python, Typescript
+- (medium/high) C++, Python, Typescript, Solidity, $\LaTeX{}$
 - (basic) Rust, Go
 
 ### Technologies
@@ -31,6 +31,7 @@
 - Utils: (basic) git, CICD, docker
 - Frontend: (medium) svelte, svelte-kit, (basic) react, next
 - Backend: (basic) gqlgen, gRPC
+
 
 ---
 
