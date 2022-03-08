@@ -26,7 +26,7 @@
 - (basic) Rust, Go
 
 ### Technologies
-- NLP: (medium/high) pytorch, AllenNLP
+- Machine Learning: (medium/high) pytorch, AllenNLP
 - Blockchain: (medium/high) hardhat, ethers.js, (basic) brownie
 - Utils: (basic) git, CICD, docker
 - Frontend: (medium) svelte, svelte-kit, (basic) react, next
