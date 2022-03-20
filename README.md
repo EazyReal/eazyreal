@@ -27,7 +27,7 @@
 
 ### Technologies
 - Machine Learning: (medium/high) pytorch, AllenNLP
-- Blockchain: (medium/high) hardhat, ethers.js, (basic) brownie
+- Blockchain: (medium/high) hardhat, ethers.js, EVM, DeFi protocols (basic) brownie
 - Utils: (basic) git, CICD, docker
 - Frontend: (medium) svelte, svelte-kit, (basic) react, next
 - Backend: (basic) gqlgen, gRPC
@@ -41,4 +41,5 @@
 - music
 - (previously) guitar, games
 
-0xb1B6356EA9E2f3Bf9867d6Ac1c1Bfd2cB1553Abb
+ytlin.eth  
+maxwill.sol
