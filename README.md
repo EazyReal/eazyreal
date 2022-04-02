@@ -9,6 +9,7 @@
   - smart contracts
   - machine learning algorithms
   - (previously) competitive programming
+- [Full CV](https://drive.google.com/file/d/19QSvranWkyYnjTbJSDQ1SKBdpeVAUMKz/view)
   
 ---
 
