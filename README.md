@@ -3,13 +3,13 @@
 
 ## About Me
 - 1st year MS student at National Taiwan University
-  - Current research directions: blockchain scalability and security (sharding, roll-ups) 
-  - Research interests: algorithms, complexity, quantum computing, etc.
+  - Current research directions: blockchain scalability and security (sharding, roll-ups, DA, ZKP) 
+  - Research interests: algorithms (classical, quantum, distributed), complexity, cryptography, etc.
 - Coder 
   - smart contracts
   - machine learning algorithms
   - (previously) competitive programming
-- [Full CV](https://drive.google.com/file/d/19QSvranWkyYnjTbJSDQ1SKBdpeVAUMKz/view)
+- [Full CV](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd/view?usp=sharing)
   
 ---
 
