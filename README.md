@@ -9,7 +9,7 @@
   - smart contracts
   - machine learning
   - competitive programming
-- [Full CV](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd/view?usp=sharing)
+- [Full CV](https://hackmd.io/@ytlin/cv)
   
 ---
 
