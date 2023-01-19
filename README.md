@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
 
 ## About Me
-- 1st year MS student at National Taiwan University
+- MS student at National Taiwan University
   - Current research direction: the intersection of distributed computing and crpytography
   - Research interests: algorithms, complexity, cryptography
 - Coder 
