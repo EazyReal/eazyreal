@@ -2,9 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
 
 ## About Me
-- MS student at National Taiwan University
-  - Current research direction: the intersection of distributed computing and crpytography
-  - Research interests: algorithms, complexity, cryptography
+- Incoming MSCS student at Georgia Tech
 - Coder 
   - smart contracts
   - machine learning
