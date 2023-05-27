@@ -1,13 +1,20 @@
+---
+title: Maxwill's Site
+tags: [home]
+---
+
 ![Maxwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazyreal&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
 
 ## About Me
 - Incoming MSCS student at Georgia Tech
-- Coder 
-  - smart contracts
+- Broadly interested in
+  - cryptography
+  - blockchains (consensus algorithms, smart contracts)
   - machine learning
   - competitive programming
-- [Full CV](https://hackmd.io/@ytlin/cv)
+- [CV in Markdown](https://hackmd.io/@ytlin/cv)
+- [CV in $\LaTex{}$](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd)
   
 ---
 
@@ -20,15 +27,23 @@
 ## Languages and Technologies
 
 ### Languages
-- (medium/high) C++, Python, Typescript, Solidity, $\LaTeX{}$
-- (basic) Rust, Go
+- (familiar) C++, Rust, Python, Typescript, Solidity, $\LaTeX{}$
+- (basic) Go
 
 ### Technologies
-- Machine Learning: (medium/high) pytorch, AllenNLP
-- Blockchain: (medium/high) hardhat, ethers.js, EVM, DeFi protocols (basic) brownie
-- Utils: (basic) git, CICD, docker
-- Frontend: (medium) svelte, svelte-kit, (basic) react, next
+- Machine Learning: pytorch, AllenNLP
+- Blockchain: hardhat, ethers.js, EVM, DeFi protocols, brownie
+- Utils: git, CICD, docker
+- Frontend: svelte, svelte-kit, (basic) react, next
 - Backend: (basic) gqlgen, gRPC
 
+---
+
+## Hobbies and Interests
+- music listening, games
+- (not so often now) guitar, piano
+
+## Addresses
+0xb1B6356EA9E2f3Bf9867d6Ac1c1Bfd2cB1553Abb
 ytlin.eth  
 maxwill.sol
