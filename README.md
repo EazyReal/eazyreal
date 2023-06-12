@@ -6,8 +6,7 @@ tags: [home]
 ## About Me
 - Incoming MSCS student at Georgia Tech
 - Broadly interested in
-  - cryptography
-  - blockchains (consensus algorithms, smart contracts)
+  - cryptography blockchains (consensus algorithms, smart contracts)
   - machine learning
   - competitive programming
 - [CV in Markdown](https://hackmd.io/@ytlin/cv)
