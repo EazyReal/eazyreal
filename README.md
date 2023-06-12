@@ -3,9 +3,6 @@ title: Maxwill's Site
 tags: [home]
 ---
 
-![Maxwill's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazyreal&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eazyreal&show_icons=true&theme=dark)
-
 ## About Me
 - Incoming MSCS student at Georgia Tech
 - Broadly interested in
