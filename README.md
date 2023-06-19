@@ -8,7 +8,6 @@ tags: [home]
 - Broadly interested in
   - cryptography (zk-SNARKs) and blockchains (consensus algorithms, smart contracts)
   - machine learning
-  - competitive programming
 - [CV in Markdown](https://hackmd.io/@ytlin/cv)
 - [CV in $\LaTex{}$](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd)
   
