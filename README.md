@@ -14,7 +14,7 @@ tags: [home]
 
 ## Selected Honors
 - A+s in theoretical courses (e.g. Advanced Algorithms, Advanced Linear Algebra, Quantum Computation and Quantum Information, Quantum Machine Learning, Intractable Problems, Algebra)
-- Ranked 541st in Google Code Jam 20
+- Ranked 541st (top 0.56\%) in Google Code Jam 20
 
 ---
 
