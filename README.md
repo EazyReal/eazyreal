@@ -8,25 +8,25 @@ tags: [home]
 - Broadly interested in
   - cryptography (zk-SNARKs) and blockchains (consensus algorithms, smart contracts)
   - machine learning
-- [CV in Markdown](https://hackmd.io/@ytlin/cv)
-- [CV in $\LaTex{}$](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd)
-  
+- [CV](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd)
+
 ---
 
 ## Selected Honors
-- A+s in theoretical courses (e.g. Quantum Computation and Quantum Information, Quantum Machine Learning, Advanced Algorithms, Intractable Problems, Advanced Linear Algebra, Algebra)
-- Ranked 541st in Google Code Jam 2020
+- A+s in theoretical courses (e.g. Advanced Algorithms, Advanced Linear Algebra, Quantum Computation and Quantum Information, Quantum Machine Learning, Intractable Problems, Algebra)
+- Ranked 541st in Google Code Jam 20
 
 ---
 
 ## Languages and Technologies
 
 ### Languages
-- (familiar) C++, Rust, Python, Typescript, Solidity, $\LaTeX{}$
+- (familiar) C++, Rust, Python, $\LaTeX{}$
+- (intermediate) Typescript, Solidity
 - (basic) Go
 
 ### Technologies
-- Machine Learning: pytorch, AllenNLP
+- Machine Learning: PyTorch
 - Blockchain: hardhat, ethers.js, EVM, DeFi protocols, brownie
 - Utils: git, CICD, docker
 - Frontend: svelte, svelte-kit, (basic) react, next
