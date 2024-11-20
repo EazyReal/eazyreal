@@ -6,13 +6,14 @@ tags: [home]
 ## About Me
 - MSCS student at Georgia Tech
 - Broadly interested in
+  - machine learning (energy-based models, generative models, reinforcement learning)
   - cryptography (zk-SNARKs) and blockchains (consensus algorithms, smart contracts)
-  - machine learning
 - [CV](https://drive.google.com/file/d/16nkGvbMUJJ8JabQOxMNzgntl9-LsBaEd)
 
 ---
 
 ## Selected Honors
+- perfect GPA specializing in ML at Georgia Tech (Advanced ML, Efficient ML, Advanced Algorithm and Uncertainty, Deep Reinforcement Learning, etc.)
 - A+s in theoretical courses (e.g. Advanced Algorithms, Advanced Linear Algebra, Quantum Computation and Quantum Information, Quantum Machine Learning, Intractable Problems, Algebra)
 - Ranked 541st (top 0.56\%) in Google Code Jam 20
 
