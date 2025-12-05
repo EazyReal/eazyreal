@@ -4,7 +4,7 @@ tags: [home]
 ---
 
 ## About Me
-- Software Engineer in Machine Learning @ Meta RAIR (Ranking AI Research)
+- Software Engineer in Machine Learning @ Meta MRS (Meta Recommendation System)
   - building foundation models for recommendation
 - Interests
   - machine learning (energy-based models, generative models, reinforcement learning)
