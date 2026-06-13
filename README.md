@@ -4,12 +4,14 @@ tags: [home]
 ---
 
 ## About Me
-- Software Engineer in Machine Learning @ Meta MRS (Meta Recommendation System)
-  - building foundation models for recommendation
+- Founding Member of Technical Staff @ [Vmax AI](https://vmax.ai/)
+  - building RL infrastructure and agentic SWE task generation for training software-engineering agents
+- Previously
+  - Machine Learning Software Engineer @ Meta MRS (Meta Recommendation System)
+  - Tesla Autopilot, quant, and applied ML systems
 - Interests
-  - machine learning (energy-based models, generative models, reinforcement learning)
-  - cryptography (zk-SNARKs) and blockchains (consensus algorithms, smart contracts)
-- [CV](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view)
+  - machine learning systems, reinforcement learning, generative models, and software-engineering agents
+- More context: [personal site](https://eazyreal.github.io) · [resume](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view)
 
 ---
 
@@ -28,7 +30,7 @@ tags: [home]
 - (basic) Go
 
 ### Technologies
-- Machine Learning: PyTorch, Ray, internal tools
+- Machine Learning: PyTorch, Ray, slime, Harbor, RL infrastructure
 - Blockchain: hardhat, ethers.js, EVM, DeFi protocols, brownie
 - Utils: git, CICD, docker
 
