@@ -2,7 +2,7 @@
 
 I am getting better at working with coding agents.
 
-I focus on generative models, reinforcement learning, and systems for software-engineering agents. My main taste: make things as simple as possible, but not simpler. I like quotient-style abstractions: remove accidental detail, preserve the invariant, then build from there.
+I take a first-principles approach to designing and building algorithms and infrastructure for recursive self-improvement, especially around generative models, reinforcement learning, and software-engineering agents. My main taste: make things as simple as possible, but not simpler. I like quotient-style abstractions: remove accidental detail, preserve the invariant, then build from there.
 
 More context: [personal site](https://eazyreal.github.io) · [writing](https://eazyreal.github.io/writing/) · [resume](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view) · [LinkedIn](https://www.linkedin.com/in/maxwilllin/)
 
