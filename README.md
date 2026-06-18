@@ -6,6 +6,7 @@ tags: [home]
 ## About Me
 - Founding Member of Technical Staff @ [Vmax AI](https://vmax.ai/)
   - building RL infrastructure and agentic SWE task generation for training software-engineering agents
+  - contributor to [THUDM/slime](https://github.com/THUDM/slime) and [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
 - Previously
   - Machine Learning Software Engineer @ Meta MRS (Meta Recommendation System)
   - Tesla Autopilot, quant, and applied ML systems
