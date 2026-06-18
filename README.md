@@ -1,47 +1,15 @@
----
-title: Maxwill's Site
-tags: [home]
----
+# Maxwill Lin
 
-## About Me
-- Founding Member of Technical Staff @ [Vmax AI](https://vmax.ai/)
-  - building RL infrastructure and agentic SWE task generation for training software-engineering agents
-  - contributor to [THUDM/slime](https://github.com/THUDM/slime) and [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
-- Previously
-  - Machine Learning Software Engineer @ Meta MRS (Meta Recommendation System)
-  - Tesla Autopilot, quant, and applied ML systems
-- Interests
-  - machine learning systems, reinforcement learning, generative models, and software-engineering agents
-- More context: [personal site](https://eazyreal.github.io) · [resume](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view)
+I am getting better at working with coding agents.
 
----
+I focus on generative models, reinforcement learning, and systems for software-engineering agents. My main taste: make things as simple as possible, but not simpler. I like quotient-style abstractions: remove accidental detail, preserve the invariant, then build from there.
 
-## Selected Honors
-- perfect GPA specializing in ML at Georgia Tech (Advanced ML, Efficient ML, Advanced Algorithm and Uncertainty, Deep Reinforcement Learning, etc.)
-- A+s in theoretical courses (e.g. Advanced Algorithms, Advanced Linear Algebra, Quantum Computation and Quantum Information, Quantum Machine Learning, Intractable Problems, Algebra)
-- Ranked top 0.56\% in Google Code Jam 20
+More context: [personal site](https://eazyreal.github.io) · [writing](https://eazyreal.github.io/writing/) · [resume](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view) · [LinkedIn](https://www.linkedin.com/in/maxwilllin/)
 
----
+## Highlights
 
-## Languages and Technologies
-
-### Languages
-- (familiar) Python, C++, Rust $\LaTeX{}$
-- (intermediate) TypeScript, Solidity
-- (basic) Go
-
-### Technologies
-- Machine Learning: PyTorch, Ray, slime, Harbor, RL infrastructure
-- Blockchain: hardhat, ethers.js, EVM, DeFi protocols, brownie
-- Utils: git, CICD, docker
-
----
-
-## Hobbies and Interests
-- music listening, competitive games
-- (not so often now) guitar, piano
-
-## Addresses
-0xb1B6356EA9E2f3Bf9867d6Ac1c1Bfd2cB1553Abb
-ytlin.eth  
-maxwill.sol
+- Top 0.56% in Google Code Jam 2020 across 96,000+ registrants.
+- Won ~USD 9k at ETHGlobal Paris for zkAlpha.
+- Open-source contributor to [slime](https://github.com/THUDM/slime), [Harbor](https://github.com/harbor-framework/harbor), and Tesla's [fixed-containers](https://github.com/teslamotors/fixed-containers/pull/147).
+- Perfect 4.0 GPA at Georgia Tech, focused on generative modeling, foundation models, reinforcement learning, and efficient ML.
+- A+ in theory-heavy courses including advanced algorithms, advanced linear algebra, quantum information and computation, and modern cryptography.
