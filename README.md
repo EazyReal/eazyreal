@@ -1,6 +1,6 @@
 # Maxwill Lin
 
-I design and build algorithms and infrastructure for recursive self-improvement, especially around generative models, reinforcement learning, and software-engineering agents. My taste is simple: make things as simple as possible, but not simpler; quotient out accidental detail, preserve the invariant, then build from there.
+I design and build algorithms and infrastructure for recursive self-improvement, especially around generative models, reinforcement learning, and software-engineering agents. I try to approach research, engineering, business, and prioritization the same way: make things as simple as possible, but not simpler; quotient out accidental detail, preserve the invariant, then build from there.
 
 More context: [personal site](https://eazyreal.github.io) · [writing](https://eazyreal.github.io/writing/) · [resume](https://drive.google.com/file/d/1iBTJaVHiqBjrJ9jxYKth7Zv-mOVhbsf0/view) · [LinkedIn](https://www.linkedin.com/in/maxwilllin/)
 
