@@ -8,6 +8,6 @@ More context: [personal site](https://eazyreal.github.io) · [writing](https://e
 
 - Top 0.56% in Google Code Jam 2020 across 96,000+ registrants.
 - Won ~USD 9k at ETHGlobal Paris for zkAlpha.
-- Open-source contributor to [slime](https://github.com/THUDM/slime), [Harbor](https://github.com/harbor-framework/harbor), and Tesla's [fixed-containers](https://github.com/teslamotors/fixed-containers/pull/147).
+- Open-source contributor to [vllm](https://github.com/vllm-project/vllm/), [sglang](https://github.com/sgl-project/sglang/), [slime](https://github.com/THUDM/slime), [Harbor](https://github.com/harbor-framework/harbor), [AReaL](https://github.com/areal-project/AReaL), [prime-rl](https://github.com/PrimeIntellect-ai/prime-rl/), Tesla's [fixed-containers](https://github.com/teslamotors/fixed-containers/pull/147), etc.
 - Perfect 4.0 GPA at Georgia Tech, focused on generative modeling, foundation models, reinforcement learning, and efficient ML.
 - A+ in theory-heavy courses including advanced algorithms, advanced linear algebra, quantum information and computation, and modern cryptography.
